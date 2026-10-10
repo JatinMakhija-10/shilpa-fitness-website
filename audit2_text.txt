@@ -1,0 +1,218 @@
+=== Shilpa_K_Pilates_Website_Audit.pdf (Total pages: 7) ===
+--- PAGE 1 ---
+Shilpa K's Pilates Studio — Website Audit
+1
+WEBSITE AUDIT
+Shilpa K's
+Pilates Studio
+Conversion, UX, content, credibility & local SEO review
+Current website
+assessment
+5.5 / 10
+Primary issue
+The website communicates the services, but it does not
+communicate enough why a customer should choose Shilpa.
+The goal of this audit is not simply to make the website look
+better. The opportunity is to turn it into a stronger trust-building
+and trial-booking system.
+Website reviewed: shilpakanodia.com
+Prepared as a practical improvement roadmap for the next website iteration.
+
+--- PAGE 2 ---
+Shilpa K's Pilates Studio — Website Audit
+2
+01 — Executive Summary
+The current website has a solid foundation: the services are understandable, the target audience is
+visible, and there are clear ways to contact the studio. The main weakness is not a lack of information
+— it is how that information is packaged and converted into trust.
+At present, much of the copy feels interchangeable with other wellness/Pilates websites. The site
+describes benefits such as strength, confidence, flexibility and wellness, but gives the visitor relatively
+few reasons to believe that Shilpa specifically is the right coach.
+The result is a website that informs a visitor, but does not consistently move them through the
+sequence: “This is for me → I trust her → I understand the experience → I see proof → I want to book.”
+The recommended revamp should therefore focus on positioning, proof, class experience, clearer
+pricing, stronger local SEO, better service pages and one consistent booking journey.
+Current Site Scorecard
+Area
+Score
+Observation
+First impression
+6/10
+Clear, but not distinctive enough
+Brand personality
+5/10
+Feels generic rather than strongly personal
+Conversion journey
+5/10
+Too much friction and CTA variation
+Trust & credibility
+5/10
+Needs stronger proof and credentials
+Service presentation
+6/10
+Services are listed but not deeply sold
+Local SEO foundation
+7/10
+Good location intent; more depth possible
+Content / authority
+4/10
+Little educational content
+Premium positioning
+5/10
+Does not fully communicate a premium studio
+
+--- PAGE 3 ---
+Shilpa K's Pilates Studio — Website Audit
+3
+02 — Hero Section
+Problem: The headline “Transform Your Body & Confidence with Pilates & Face Yoga” is clear but highly
+generic. It could belong to almost any Pilates/wellness studio.
+Recommended fix: Replace generic wellness language with a sharper value proposition: who the studio
+is for, what makes the experience different, where it is, and one clear primary CTA.
+03 — Too Little Shilpa
+Problem: The business is built around a coach, but the site does not make Shilpa’s story, methodology,
+qualifications and personality feel central enough. The “Meet Shilpa” section reads like a generic bio.
+Recommended fix: Make the coach the differentiator: certifications, experience, philosophy,
+specialisations, teaching approach, real photographs and a stronger personal story.
+04 — AI / Template-Like Copy
+Problem: Repeated phrases such as “stronger,” “more confident,” “natural glow,” “improve posture,”
+and “feel your best” are broad wellness phrases. They do not create a distinctive brand voice.
+Recommended fix: Rewrite the copy around real customer situations, real class experiences and
+Shilpa’s actual approach. Human-first writing, SEO second.
+05 — Audience Section
+Problem: The site tries to address beginners, working professionals, moms, pregnant women, people
+with pain, people who dislike gyms and people seeking face yoga. The targeting becomes broad rather
+than specific.
+Recommended fix: Prioritise 3–4 core customer types and write directly to their needs, fears and
+desired outcomes.
+06 — Plans & Pricing
+Problem: A section is labelled “Plans & Pricing”, but visitors are shown plan names without actual prices.
+This creates unnecessary friction and can make the section feel incomplete.
+Recommended fix: Show clear pricing where appropriate, or rename the section and clearly explain how
+pricing/trials work. Remove ambiguity.
+07 — CTA Inconsistency
+Problem: The website uses several variations: Book a Trial, Book Your Trial, Book Trial, Check
+Availability, Chat Now, WhatsApp Now, etc. Multiple labels dilute the primary action.
+Recommended fix: Use one primary CTA throughout: BOOK A TRIAL. Keep WhatsApp as the secondary
+action.
+08 — Testimonials
+Problem: The testimonial section says “Real Results from Real Clients,” but the proof is weak without
+stronger identity, photos, review context or links. Polished anonymous testimonials can feel
+AI-generated even when genuine.
+Recommended fix: Use real client names where permitted, photos, Google review excerpts/screenshots,
+dates and specific experiences. Keep wording natural.
+09 — Weak Social Proof
+Problem: There is not enough visible evidence of demand or trust: ratings, review count, client stories,
+credentials, results and real class moments should be more prominent.
+
+--- PAGE 4 ---
+Shilpa K's Pilates Studio — Website Audit
+4
+Recommended fix: Build a trust stack: Google rating, review count, certifications, client stories, studio
+photos and authentic class photography.
+10 — Gallery
+Problem: The gallery communicates that the studio has equipment and a physical space, but it does not
+sell the experience strongly enough.
+Recommended fix: Show people: Shilpa coaching, small groups, real movement, client interaction,
+atmosphere, prenatal sessions and close-up details.
+11 — Class Experience
+Problem: A new visitor cannot quickly understand what their first session actually looks like. This is
+especially important for beginners who may feel intimidated.
+Recommended fix: Add a “Your First Session” 3–4 step section explaining what happens before, during
+and after the class.
+12 — Rehab & Prenatal
+Problem: Rehab Pilates and Prenatal Pilates are high-trust services, but they are compressed into short
+sections. These customers have more questions and need more reassurance.
+Recommended fix: Create dedicated service pages with FAQs, credentials, suitability, process, safety
+notes and strong booking CTAs.
+13 — Missing FAQ
+Problem: Common objections are left for WhatsApp: what to wear, beginner suitability, session duration,
+class size, trial details, location, pricing, prenatal questions and more.
+Recommended fix: Add a concise FAQ section and service-specific FAQs to reduce pre-booking friction.
+14 — Location / Local SEO
+Problem: Goregaon, Malad and Kandivali are mentioned, but the website could do much more to
+convert local intent.
+Recommended fix: Build dedicated local/service landing pages, improve location details, add
+map/landmark information and strengthen local structured content.
+15 — No Content Engine
+Problem: There is little visible educational content to capture people searching for Pilates, posture, back
+pain, prenatal movement, face yoga and related questions.
+Recommended fix: Launch an SEO-focused blog/resource section and connect every article to a relevant
+trial or consultation CTA.
+16 — Visual Storytelling
+Problem: The page reads as a sequence of information blocks rather than a brand story. The visitor is
+told what the studio offers rather than shown what it feels like to be there.
+Recommended fix: Rebuild the page narrative around: customer problem → Shilpa → method →
+experience → proof → plans → booking.
+17 — Premium Positioning
+Problem: The combination of personal training, semi-private sessions, rehab, prenatal and face yoga
+can support a premium position, but the current presentation feels closer to a generic local fitness
+website.
+
+--- PAGE 5 ---
+Shilpa K's Pilates Studio — Website Audit
+5
+Recommended fix: Use calmer visual hierarchy, stronger photography, concise copy, real proof and a
+more editorial wellness aesthetic.
+18 — Footer
+Problem: The footer primarily closes the page rather than functioning as a final navigation and trust
+layer.
+Recommended fix: Add service links, locations, contact details, hours, Instagram, FAQs, legal links and a
+final booking CTA.
+
+--- PAGE 6 ---
+Shilpa K's Pilates Studio — Website Audit
+6
+19 — Recommended Conversion Journey
+The new website should be structured around a simple psychological sequence instead of simply
+stacking sections.
+01
+RECOGNITION
+“This is for someone like me.”
+02
+DIFFERENTIATION
+“I understand why Shilpa is different.”
+03
+EXPERIENCE
+“I know what my first session will be like.”
+04
+PROOF
+“Other people trust her and got value.”
+05
+CHOICE
+“I understand the plans/services.”
+06
+ACTION
+“Booking a trial is easy.”
+Recommended navigation
+Home · Pilates · Rehab Pilates · Prenatal Pilates · Face Yoga · About Shilpa · Pricing · Testimonials · Blog ·
+Contact
+Primary CTA: BOOK A TRIAL    Secondary CTA: WHATSAPP
+
+--- PAGE 7 ---
+Shilpa K's Pilates Studio — Website Audit
+7
+20 — Priority Roadmap
+Priority
+What to change
+P0 — Critical
+Hero rewrite; clear positioning; one CTA system; pricing clarity; stronger Shilpa section;
+testimonials/proof; mobile booking flow.
+P1 — High impact
+Dedicated service pages; first-session journey; FAQ; authentic photography; stronger
+local SEO structure; better navigation.
+P2 — Growth
+Blog/SEO content system; Google review integration; local landing pages; lead tracking;
+WhatsApp follow-up flow.
+P3 — Optimisation
+A/B test hero and CTA copy; monitor enquiries; refine pages based on booking
+behaviour; continuously improve SEO content.
+What the revamp should achieve
+Current: Visitor reads → understands services → has to decide whether to trust → may WhatsApp.
+Target: Visitor recognises themselves → understands Shilpa’s difference → sees proof → understands
+the experience → chooses a plan → books a trial.
+The opportunity is therefore bigger than a visual redesign. The
+website should become a local lead-generation and trust-building
+asset for the studio.
+Audit source: live website review of shilpakanodia.com. Recommendations are based on conversion, UX, content,
+credibility and local-search best practices.

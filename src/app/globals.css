@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..800;1,9..144,300..700&family=Manrope:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-fraunces: 'Fraunces', Georgia, serif;
+  --font-manrope: 'Manrope', system-ui, sans-serif;
+  --color-cream: #F5F0E8;
+  --color-stone: #E4DACB;
+  --color-clay: #B8A38C;
+  --color-ink: #1E1A17;
+  --color-plum: #4A1D26;
+  --color-blush: #E8C9CB;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-manrope);
+    color: var(--color-ink);
+    background-color: var(--color-cream);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    line-height: 1.6;
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background-color: #E8C9CB;
+    color: #4A1D26;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-fraunces);
+    letter-spacing: -0.02em;
+    color: var(--color-ink);
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-fraunces);
+  }
+
+  .font-body {
+    font-family: var(--font-manrope);
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Custom subtle glass & borders */
+  .border-clay-subtle {
+    border-color: rgba(184, 163, 140, 0.35);
+  }
+
+  .bg-cream-glass {
+    background-color: rgba(245, 240, 232, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+  }
+
+  .bg-dark-glass {
+    background: rgba(30, 26, 23, 0.75);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+}
+
+/* Marquee / Ticker Animation */
+@keyframes ticker {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-ticker {
+  display: flex;
+  width: max-content;
+  animation: ticker 28s linear infinite;
+}
+
+.animate-ticker:hover {
+  animation-play-state: paused;
+}
+
+/* Accessible focus outline */
+:focus-visible {
+  outline: 2px solid #4A1D26;
+  outline-offset: 3px;
+}
